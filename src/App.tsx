@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Hello Git</h1>
       <h2>Dev branch</h2>
+      <h3>comm2</h3>
     </div>
   );
 }
